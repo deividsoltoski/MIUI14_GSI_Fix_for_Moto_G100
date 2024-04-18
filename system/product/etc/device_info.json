@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 870",
+    "battery": "5000mAh",
+    "camera": "64MP+16MP+2MP+ToF 3D",
+    "screen": "6.7″ IPS LCD",
+    "resolution": "2520×1080"
+  },
+  "camera": {
+    "front_camera": "16MP+8MP",
+    "rear_camera": "64MP+16MP+2MP+ToF 3D"
+  }
+}
