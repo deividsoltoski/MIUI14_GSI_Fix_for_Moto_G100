@@ -16,7 +16,7 @@ Here you will find some fixes for the GSI of MIUI 14 Android 13 to be functional
 
 • Fixed device_features, one example was that you were unable to turn on the flashlight in the control center 
 
-• By default the refresh rate will be at 90 Hz, if you use battery saver it will go to 60 Hz if you wanted to use 60 
+• By default the refresh rate will be at 90 Hz, if you use battery saver it will go to 60 Hz if you wanted to use 60 Hz
 
 • Added MIUI Scanner
 
