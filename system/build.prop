@@ -52,7 +52,7 @@ ro.build.flavor=nio_nioretail_nio-user
 # ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
 # use ro.product.cpu.abilist instead.
 ro.product.cpu.abi=arm64-v8a
-ro.product.locale=pt-BR
+ro.product.locale=en-US
 ro.wifi.channels=
 # Do not try to parse thumbprint
 # end build properties
@@ -268,17 +268,17 @@ ro.com.android.mobiledata=false
 # end of file
 
 # ADDED BY XIAOMI.EU # MIUIOS.CZ # MIUIPOLSKA.PL #
-ro.build.fingerprint=Xiaomi/psyche/psyche:13/RKQ1.211001.001/V14.0.23.2.27.DEV:user/release-keys
-ro.product.mod_device=psyche_xiaomieu_global
+ro.build.fingerprint=motorola/nio_retail/nio:12/S1RN32M.55-16-2/32b4dd:user/release-keys
+ro.product.mod_device=nio_xiaomieu_global
 ro.xiaomi.developerid=ingbrzy_acid_igoreisberg
 ro.xiaomi.eu.ota_device=XM12X
 ro.xiaomi.eu.version.code_time=1677883455
 ro.miui.mcc=9998
 ro.miui.mnc=9999
-ro.product.locale.language=pt
-ro.product.locale.region=BR
-ro.miui.region=BR
-ro.miui.cust_variant=br
+ro.product.locale.language=en
+ro.product.locale.region=US
+ro.miui.region=US
+ro.miui.cust_variant=us
 ro.com.google.lens.oem_camera_package=com.android.camera
 ro.com.google.lens.oem_image_package=com.miui.gallery
 sys.display-size=1080x2520
@@ -330,6 +330,7 @@ ro.multisim.simslotcount=2
 ro.vendor.multisim.simslotcount=2
 persist.radio.multisim.config=dsds
 persist.vendor.radio.msimode=dsds
+
 # You can nuke this if necessary
 ro.opengles.version=196610
 sys.miui.ndcd=off
